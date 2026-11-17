@@ -84,9 +84,7 @@ Florida has the highest average, but the gap is small compared with the spread i
 - Predictions outside the observed spending ranges are unreliable.
 
 ## Power BI Dashboard
-
-> Add your dashboard screenshot here: `![Dashboard](images/dashboard.png)`
-> and upload the `.pbix` file to this repository.
+![Dashboard](images/dashboard.png)
 
 ## How to Run
 
